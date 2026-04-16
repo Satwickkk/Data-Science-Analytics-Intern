@@ -35,12 +35,18 @@ The notebook generates:
 
 * 📈 Average PnL comparison (Fear vs Greed)
   <img width="631" height="610" alt="image" src="https://github.com/user-attachments/assets/bbf82ff5-9ef2-489e-a9c6-7859df542246" />
+
+
   
 * 📉 Win rate analysis
   <img width="615" height="617" alt="image" src="https://github.com/user-attachments/assets/81bbcce5-3396-462b-9541-38f0b8a92c07" />
+
+  
   
 * 📌 Long vs Short position distribution
   <img width="633" height="616" alt="image" src="https://github.com/user-attachments/assets/057ab184-2785-4070-bcff-e824b01d4c4d" />
+
+  
   
 
 ---
